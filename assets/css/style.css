@@ -140,3 +140,6 @@ select:focus {
 .skip-link:focus {
 	top: 6px;
 }
+body {
+    background-color: #0077ff; 
+}
