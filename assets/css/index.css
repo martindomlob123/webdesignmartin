@@ -38,6 +38,12 @@ p {
 .analysis-block p {
   margin-top: 0.25rem;
 }
+
+/* Centrar h3 y p dentro de los bloques de análisis */
+.analysis-block {
+  text-align: center;
+}
+
 /* Efecto de hover: al pasar el ratón por encima, el h1 se hace el doble de grande */
 h1:hover {
   transform: scale(1.25); /* Escalamos al doble del tamaño original */
